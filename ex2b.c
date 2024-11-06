@@ -83,5 +83,5 @@ int main(int argc, char *argv[]) {
     printf("\nTime taken using mmap: %ld microseconds\n", elapsed_mmap);
     printf("Time taken using read: %ld microseconds\n", elapsed_read);
 
-    return 0;
+    return 0; 
 }
